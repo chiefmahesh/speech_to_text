@@ -37,7 +37,7 @@ try:
 except:
     pass;
     
-# In case you want to display text in the language spoken, we have to introduce a very minor change
+-- In case you want to display text in the language spoken, we have to introduce a very minor change
 Now, if we speak anything in Hindi, the text is displayed in the same language.
 
 try:
