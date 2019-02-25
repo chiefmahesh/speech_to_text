@@ -1,6 +1,10 @@
 # speech_to_text
-Audio to text conversion
+Audio to text conversion.
+
+Please provide audio files in .wav format.
+
   1 - From speech recording to text
+  
   2 - From Audio file to text
  
  Converting Speech to Text is very easy in python. Let’s follow this simple tutorial to implement the same.
